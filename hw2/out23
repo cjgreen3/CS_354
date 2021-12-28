@@ -1,0 +1,33 @@
+Reading Save Game File
+Board Size = (5, 5)
+Number of Ships = 5
+Ship 0: (0, 0), length = 5, direction H
+Ship 1: (1, 0), length = 5, direction H
+Ship 2: (2, 0), length = 5, direction H
+Ship 3: (3, 0), length = 5, direction H
+Ship 4: (4, 0), length = 5, direction H
+Number of Attacks = 1
+Attack 0: (2, 2)
+
+Initializing Board
+.....
+.....
+.....
+.....
+.....
+
+Adding Ships
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+
+Processing Attacks
+SSSSS
+SSSSS
+SSHSS
+SSSSS
+SSSSS
+
+Ships remain afloat - game on
